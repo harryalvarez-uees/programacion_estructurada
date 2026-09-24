@@ -27,7 +27,6 @@ semana_5y6/
     ├── excepciones.py   # Excepciones propias del catálogo
     ├── pruebas.py       # Prueba rápida por consola
     ├── requirements.txt
-    └── uml/             # Diagrama de clases (PlantUML)
 ```
 
 ## Requisitos
